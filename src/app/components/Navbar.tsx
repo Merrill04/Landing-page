@@ -23,9 +23,9 @@ export default function Navbar() {
             <button className="px-3 py-1 rounded-lg bg-white/10 text-white">
               Dashboard
             </button>
-            <button className="hover:text-gray-300">Team</button>
-            <button className="hover:text-gray-300">Projects</button>
-            <button className="hover:text-gray-300">Calendar</button>
+            <button className="hover:text-gray-300">Products</button>
+            <button className="hover:text-gray-300">Contact</button>
+            <button className="hover:text-gray-300">Regulations</button>
           </div>
         </div>
 
