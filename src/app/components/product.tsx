@@ -37,7 +37,7 @@ export default function ProductsSection() {
   ];
 
   return (
-    <section className="bg-gray-950 py-24 px-6">
+    <section className="bg-black py-24 px-6">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-16">
