@@ -2,17 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Step1: First, clone this repository
+Step2: Then Run "npm install" to install all the necessary dependencies from package.json file.
+Step3: Once all dependencies are installed with proper versioning(Refer package.json file) then run the deployment server.
+To run the deployment server run command "npm run dev".
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
